@@ -4,14 +4,16 @@
 
 **Aspiring Backend AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://00arsalan00.github.io/my_protfolio/)
+![Repositories](https://img.shields.io/github/directory-file-count/00arsalan00?label=Repositories)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23.psitaiml2311749@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-arsalan-rayeen-8416a4320)
 
 <br/>
-[![Public Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F00arsalan00)](https://github.com/00arsalan00?tab=repositories)
+
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F00arsalan00&label=Repos&query=%24.public_repos&color=2563eb&logo=github&style=flat&cacheSeconds=3600)](https://github.com/00arsalan00?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/00arsalan00?label=Followers&style=flat&color=2563eb&logo=github)](https://github.com/00arsalan00?tab=followers)
 [![Visitor Count](https://komarev.com/ghpvc/?username=00arsalan00&label=Visitor+count&color=0e75b6&style=flat)](https://github.com/00arsalan00)
+
 
 </div>
 
