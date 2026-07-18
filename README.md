@@ -10,7 +10,7 @@
 
 <br/>
 
-![Repositories](https://img.shields.io/badge/Repositories-REPO_COUNT-2563eb?style=flat&logo=github)
+![Repositories](https://img.shields.io/badge/Repositories-12-2563eb?style=flat&logo=github)
 [![Followers](https://img.shields.io/github/followers/00arsalan00?label=Followers&style=flat&color=2563eb&logo=github)](https://github.com/00arsalan00?tab=followers)
 [![Visitor Count](https://komarev.com/ghpvc/?username=00arsalan00&label=Visitor+count&color=0e75b6&style=flat)](https://github.com/00arsalan00)
 
