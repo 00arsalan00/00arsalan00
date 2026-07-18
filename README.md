@@ -4,16 +4,15 @@
 
 **Aspiring Backend AI Engineer**
 
-![Repositories](https://img.shields.io/github/directory-file-count/00arsalan00?label=Repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23.psitaiml2311749@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-arsalan-rayeen-8416a4320)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
 
 <br/>
 
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F00arsalan00&label=Repos&query=%24.public_repos&color=2563eb&logo=github&style=flat&cacheSeconds=3600)](https://github.com/00arsalan00?tab=repositories)
+![Repositories](https://img.shields.io/badge/Repositories-<!--REPO_COUNT-->-2563eb?style=flat&logo=github)
 [![Followers](https://img.shields.io/github/followers/00arsalan00?label=Followers&style=flat&color=2563eb&logo=github)](https://github.com/00arsalan00?tab=followers)
 [![Visitor Count](https://komarev.com/ghpvc/?username=00arsalan00&label=Visitor+count&color=0e75b6&style=flat)](https://github.com/00arsalan00)
-
 
 </div>
 
@@ -54,6 +53,8 @@ public class Arsalan {
 <br/>
 ![Stars](https://img.shields.io/github/stars/00arsalan00/ExpenseTrackerApp?style=flat&logo=github&color=2563eb) ![Language](https://img.shields.io/github/languages/top/00arsalan00/ExpenseTrackerApp?style=flat&color=2563eb) ![Last Commit](https://img.shields.io/github/last-commit/00arsalan00/ExpenseTrackerApp?style=flat&color=2563eb)
 
-**[Ticket Booking Backend](https://github.com/00arsalan00/Ticket-Booking-BackEnd)**
+**[MediMind](https://github.com/00arsalan00/MediMind)**
+
+**[ResQNet](https://github.com/00arsalan00/ResQNet)**
 <br/>
 ![Stars](https://img.shields.io/github/stars/00arsalan00/Ticket-Booking-BackEnd?style=flat&logo=github&color=2563eb) ![Language](https://img.shields.io/github/languages/top/00arsalan00/Ticket-Booking-BackEnd?style=flat&color=2563eb) ![Last Commit](https://img.shields.io/github/last-commit/00arsalan00/Ticket-Booking-BackEnd?style=flat&color=2563eb)
