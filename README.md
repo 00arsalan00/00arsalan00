@@ -1,60 +1,66 @@
 <div align="center">
 
 # Hi, I'm Mohammad Arsalan Rayeen 👋
+**Aspiring Backend AI Engineer**
 
-**Aspiring Backend AI engineer.**
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23.psitaiml2311749@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
 
-<a href="https://github.com/00arsalan00"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%4000arsalan00-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%4000arsalan00-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+<br/>
 
-<a href="https://github.com/00arsalan00?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/00arsalan00.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/00arsalan00.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/00arsalan00?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/00arsalan00.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/00arsalan00.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/00arsalan00?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-9-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-9-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F00arsalan00&label=Repos&query=%24.public_repos&color=2563eb&logo=github&style=flat" alt="Repo Count"/>
+<img src="https://img.shields.io/github/followers/00arsalan00?label=Followers&style=flat&color=2563eb&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=00arsalan00&label=Visitor+count&color=0e75b6&style=flat" alt="Visitor Count"/>
 
 </div>
+
+<br/>
+
+```java
+public class Arsalan {
+    private String role       = "Backend-focused B.Tech AIML Student";
+    private String[] languages = {"Java", "C/C++", "Python", "SQL"};
+    private String[] backend   = {"Spring Boot", "Spring Security", "Spring Data JPA", "Hibernate"};
+    private String[] learning  = {"Kafka", "Redis", "Spring AI", "LLM/RAG", "Vector DBs"};
+    
+    public String currentFocus() {
+        return "Building scalable REST APIs & shipping SDE-1 ready projects";
+    }
+}
+```
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=00arsalan00&label=Visitor+count&color=0e75b6&style=flat)
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,spring,mysql,postgres,redis,kafka,docker,git,github,idea,linux,aws,vscode&theme=dark" alt="Skills"/>
 
 </div>
 
-## Skills & Technologies
+<br/>
 
-**Languages**
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm&mode=dark"><img alt="Java" src="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-C%2FC%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm&mode=dark"><img alt="C/C++" src="https://www.shieldcn.dev/badge/-C%2FC%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm&mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-SQL-4479A1.svg?logo=mysql&variant=branded&size=sm&mode=dark"><img alt="SQL" src="https://www.shieldcn.dev/badge/-SQL-4479A1.svg?logo=mysql&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm&mode=dark"><img alt="MySQL" src="https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm&mode=dark"><img alt="PostgreSQL" src="https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm&mode=light"></picture>
+**Also working with:** Spring Security (JWT) · Hibernate · REST API Design · Postman · Swagger UI · Render
 
-**Backend**
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Spring%20Boot-6DB33F.svg?logo=springboot&variant=branded&size=sm&mode=dark"><img alt="Spring Boot" src="https://www.shieldcn.dev/badge/-Spring%20Boot-6DB33F.svg?logo=springboot&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Spring%20Security-6DB33F.svg?logo=springsecurity&variant=branded&size=sm&mode=dark"><img alt="Spring Security" src="https://www.shieldcn.dev/badge/-Spring%20Security-6DB33F.svg?logo=springsecurity&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Spring%20Data%20JPA-6DB33F.svg?logo=spring&variant=branded&size=sm&mode=dark"><img alt="Spring Data JPA" src="https://www.shieldcn.dev/badge/-Spring%20Data%20JPA-6DB33F.svg?logo=spring&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Hibernate-59666C.svg?logo=hibernate&variant=branded&size=sm&mode=dark"><img alt="Hibernate" src="https://www.shieldcn.dev/badge/-Hibernate-59666C.svg?logo=hibernate&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-REST%20API%20Design-2563eb.svg?variant=secondary&size=sm&mode=dark"><img alt="REST API Design" src="https://www.shieldcn.dev/badge/-REST%20API%20Design-2563eb.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JWT%20%2F%20Token%20Auth-000000.svg?logo=jsonwebtokens&variant=branded&size=sm&mode=dark"><img alt="JWT / Token Auth" src="https://www.shieldcn.dev/badge/-JWT%20%2F%20Token%20Auth-000000.svg?logo=jsonwebtokens&variant=branded&size=sm&mode=light"></picture>
+<br/>
 
-**Tools**
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm&mode=dark"><img alt="Git" src="https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-GitHub-181717.svg?logo=github&variant=branded&size=sm&mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/-GitHub-181717.svg?logo=github&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm&mode=dark"><img alt="Docker" src="https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Postman-FF6C37.svg?logo=postman&variant=branded&size=sm&mode=dark"><img alt="Postman" src="https://www.shieldcn.dev/badge/-Postman-FF6C37.svg?logo=postman&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Swagger%20UI-85EA2D.svg?logo=swagger&variant=branded&size=sm&mode=dark"><img alt="Swagger UI" src="https://www.shieldcn.dev/badge/-Swagger%20UI-85EA2D.svg?logo=swagger&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Render-46E3B7.svg?logo=render&variant=branded&size=sm&mode=dark"><img alt="Render" src="https://www.shieldcn.dev/badge/-Render-46E3B7.svg?logo=render&variant=branded&size=sm&mode=light"></picture>
+## GitHub Stats
 
-**Core Competencies**
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-OOP%20Design-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="OOP Design" src="https://www.shieldcn.dev/badge/-OOP%20Design-64748b.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Clean%20%26%20Maintainable%20Code-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="Clean & Maintainable Code" src="https://www.shieldcn.dev/badge/-Clean%20%26%20Maintainable%20Code-64748b.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-REST%20API%20Development-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="REST API Development" src="https://www.shieldcn.dev/badge/-REST%20API%20Development-64748b.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Technical%20Documentation-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="Technical Documentation" src="https://www.shieldcn.dev/badge/-Technical%20Documentation-64748b.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Code%20Reviews-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="Code Reviews" src="https://www.shieldcn.dev/badge/-Code%20Reviews-64748b.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Cross--functional%20Collaboration-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="Cross-functional Collaboration" src="https://www.shieldcn.dev/badge/-Cross--functional%20Collaboration-64748b.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Performance%20Optimization-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="Performance Optimization" src="https://www.shieldcn.dev/badge/-Performance%20Optimization-64748b.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Debugging-64748b.svg?variant=secondary&size=sm&mode=dark"><img alt="Debugging" src="https://www.shieldcn.dev/badge/-Debugging-64748b.svg?variant=secondary&size=sm&mode=light"></picture>
+<div align="center">
 
-**Core Fundamentals**
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Data%20Structures%20%26%20Algorithms-9333ea.svg?variant=secondary&size=sm&mode=dark"><img alt="Data Structures & Algorithms" src="https://www.shieldcn.dev/badge/-Data%20Structures%20%26%20Algorithms-9333ea.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-OOPs-9333ea.svg?variant=secondary&size=sm&mode=dark"><img alt="OOPs" src="https://www.shieldcn.dev/badge/-OOPs-9333ea.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-DBMS-9333ea.svg?variant=secondary&size=sm&mode=dark"><img alt="DBMS" src="https://www.shieldcn.dev/badge/-DBMS-9333ea.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Operating%20Systems-9333ea.svg?variant=secondary&size=sm&mode=dark"><img alt="Operating Systems" src="https://www.shieldcn.dev/badge/-Operating%20Systems-9333ea.svg?variant=secondary&size=sm&mode=light"></picture>
+<img src="https://github-readme-stats.vercel.app/api?username=00arsalan00&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=00arsalan00&hide_border=true" alt="GitHub Streak" height="165"/>
 
-**Currently Learning**
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Microservices%20(Spring%20Cloud%2C%20Kafka)-f97316.svg?variant=secondary&size=sm&mode=dark"><img alt="Microservices (Spring Cloud, Kafka)" src="https://www.shieldcn.dev/badge/-Microservices%20(Spring%20Cloud%2C%20Kafka)-f97316.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Redis-DC382D.svg?logo=redis&variant=branded&size=sm&mode=dark"><img alt="Redis" src="https://www.shieldcn.dev/badge/-Redis-DC382D.svg?logo=redis&variant=branded&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Spring%20AI-f97316.svg?variant=secondary&size=sm&mode=dark"><img alt="Spring AI" src="https://www.shieldcn.dev/badge/-Spring%20AI-f97316.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-LLM%20%2F%20RAG-f97316.svg?variant=secondary&size=sm&mode=dark"><img alt="LLM / RAG" src="https://www.shieldcn.dev/badge/-LLM%20%2F%20RAG-f97316.svg?variant=secondary&size=sm&mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vector%20DBs-f97316.svg?variant=secondary&size=sm&mode=dark"><img alt="Vector DBs" src="https://www.shieldcn.dev/badge/-Vector%20DBs-f97316.svg?variant=secondary&size=sm&mode=light"></picture>
+</div>
 
-## 📦 Top Repositories
+<br/>
 
-<a href="https://github.com/00arsalan00/ExpenseTrackerApp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/00arsalan00/ExpenseTrackerApp.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="ExpenseTrackerApp ⭐ 1" src="https://www.shieldcn.dev/github/stars/00arsalan00/ExpenseTrackerApp.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/00arsalan00/Ticket-Booking-BackEnd"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/00arsalan00/Ticket-Booking-BackEnd.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Ticket-Booking-BackEnd ⭐ 1" src="https://www.shieldcn.dev/github/stars/00arsalan00/Ticket-Booking-BackEnd.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+## Top Repositories
+
+<a href="https://github.com/00arsalan00/ExpenseTrackerApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00arsalan00&repo=ExpenseTrackerApp&theme=default&hide_border=true" /></a>
+<a href="https://github.com/00arsalan00/Ticket-Booking-BackEnd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00arsalan00&repo=Ticket-Booking-BackEnd&theme=default&hide_border=true" /></a>
 
 ---
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
-
-<!--
-**00arsalan00/00arsalan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
