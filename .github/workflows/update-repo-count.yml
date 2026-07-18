@@ -16,16 +16,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Get repository count
+      - name: Update repository count
         run: |
-          COUNT=$(curl -s https://api.github.com/users/00arsalan00 | jq '.public_repos')
-          sed -i "s/Repositories-[0-9]\+/Repositories-$COUNT/" README.md || \
-          sed -i "s/Repositories-REPO_COUNT/Repositories-$COUNT/" README.md
+          COUNT=$(curl -s https://api.github.com/users/00arsalan00 | jq -r '.public_repos')
+          sed -i "s/REPO_COUNT/$COUNT/g" README.md
 
       - name: Commit changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add README.md
           git diff --cached --quiet || git commit -m "Update repository count"
           git push
