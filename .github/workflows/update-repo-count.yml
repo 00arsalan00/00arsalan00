@@ -19,7 +19,8 @@ jobs:
       - name: Get repository count
         run: |
           COUNT=$(curl -s https://api.github.com/users/00arsalan00 | jq '.public_repos')
-          sed -i "s/<!--REPO_COUNT-->/$COUNT/g" README.md
+          sed -i "s/Repositories-[0-9]\+/Repositories-$COUNT/" README.md || \
+          sed -i "s/Repositories-REPO_COUNT/Repositories-$COUNT/" README.md
 
       - name: Commit changes
         run: |
