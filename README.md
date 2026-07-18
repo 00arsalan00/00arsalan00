@@ -4,7 +4,7 @@
 
 **Aspiring Backend AI Engineer**
 
-![Repositories](https://img.shields.io/badge/Repositories-REPO_COUNT-2563eb?style=flat&logo=github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23.psitaiml2311749@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
 
