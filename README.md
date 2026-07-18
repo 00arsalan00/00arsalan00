@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=00arsalan00&label=Visitor+count&color=0e75b6&style=flat)
+
+</div>
+
 ## Skills & Technologies
 
 **Languages**
