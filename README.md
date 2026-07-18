@@ -54,7 +54,9 @@ public class Arsalan {
 ![Stars](https://img.shields.io/github/stars/00arsalan00/ExpenseTrackerApp?style=flat&logo=github&color=2563eb) ![Language](https://img.shields.io/github/languages/top/00arsalan00/ExpenseTrackerApp?style=flat&color=2563eb) ![Last Commit](https://img.shields.io/github/last-commit/00arsalan00/ExpenseTrackerApp?style=flat&color=2563eb)
 
 **[MediMind](https://github.com/00arsalan00/MediMind)**
+![Stars](https://img.shields.io/github/stars/00arsalan00/MediMind?style=flat&logo=github&color=2563eb) ![Language](https://img.shields.io/github/languages/top/00arsalan00/MediMind?style=flat&color=2563eb) ![Last Commit](https://img.shields.io/github/last-commit/00arsalan00/MediMind?style=flat&color=2563eb)
+
 
 **[ResQNet](https://github.com/00arsalan00/ResQNet)**
 <br/>
-![Stars](https://img.shields.io/github/stars/00arsalan00/Ticket-Booking-BackEnd?style=flat&logo=github&color=2563eb) ![Language](https://img.shields.io/github/languages/top/00arsalan00/Ticket-Booking-BackEnd?style=flat&color=2563eb) ![Last Commit](https://img.shields.io/github/last-commit/00arsalan00/Ticket-Booking-BackEnd?style=flat&color=2563eb)
+![Stars](https://img.shields.io/github/stars/00arsalan00/ResQNet?style=flat&logo=github&color=2563eb) ![Language](https://img.shields.io/github/languages/top/00arsalan00/ResQNet?style=flat&color=2563eb) ![Last Commit](https://img.shields.io/github/last-commit/00arsalan00/ResQNet?style=flat&color=2563eb)
